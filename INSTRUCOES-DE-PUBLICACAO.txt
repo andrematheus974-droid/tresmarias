@@ -1,0 +1,38 @@
+CENTRAL DA CASA — APLICATIVO ATUALIZADO
+
+PUBLICAÇÃO
+1. Extraia o ZIP e envie todos os arquivos para a mesma pasta onde o app atual está hospedado.
+2. Mantenha index.html, instalar.html, manifest.webmanifest, service-worker.js e a pasta icons juntos. Não altere os nomes.
+3. Use uma hospedagem com HTTPS. O acesso pós-compra pode continuar apontando para instalar.html.
+4. O domínio existente foi preservado. Uma troca de domínio exige configuração própria de DNS.
+5. Depois de publicar, reabra o app com internet para receber a nova versão. Se necessário, feche e abra novamente. Alguns celulares podem exigir reinstalar o atalho para atualizar o nome e o ícone.
+
+ANTES DA ATUALIZAÇÃO
+Faça um backup em Mais > Exportar backup. Publique no mesmo endereço: os dados são salvos por navegador, aparelho e domínio. Abrir em outro endereço não transfere os registros automaticamente; use Importar backup.
+
+NOVIDADES
+- Nova identidade Central da Casa, vermelho escuro e branco.
+- Materiais completos por ambiente e aulas em vídeo preservadas.
+- Financeiro com entradas recebidas, gastos pagos, contas pendentes e gráfico por categoria.
+- Meta mensal: quanto a pessoa quer que sobre ao final do mês. A previsão considera entradas recebidas menos todos os gastos cadastrados do mês, pagos e pendentes.
+- Contas fixas, compras parceladas, limites mensais por categoria e backup com os dados financeiros.
+- Minha casa foi movida para Mais e continua alimentando a rotina.
+
+COMO USAR O FINANCEIRO
+1. Escolha o mês e registre suas entradas já recebidas.
+2. Adicione os gastos e indique se estão pagos ou pendentes.
+3. Em compras parceladas, informe o valor de CADA parcela e a quantidade.
+4. Defina a meta de sobra. O painel mostra quanto ainda pode gastar sem ficar abaixo da meta, com base nos registros do mês.
+5. Marque as contas como pagas quando efetuar o pagamento.
+6. Consulte outros meses para ver parcelas e contas fixas. Os pagamentos das contas fixas são individuais por mês.
+7. Para editar uma conta fixa, toque no nome. A alteração vale para aquele mês. Para mudar a regra dos próximos meses, encerre a repetição e cadastre a nova conta.
+
+OS VALORES DO PAINEL
+Saldo do mês: entradas recebidas menos gastos pagos no mês.
+Previsão de sobra: entradas recebidas menos gastos pagos e contas pendentes do mês.
+A meta é individual por mês; não é debitada como despesa. Limites por categoria também são definidos por mês. O saldo não representa saldo bancário nem inclui automaticamente dinheiro do mês anterior.
+
+INSTALAÇÃO E DADOS
+Android: abra instalar.html no Chrome e use Instalar app / Adicionar à tela inicial.
+iPhone: abra no Safari e use Compartilhar > Adicionar à Tela de Início.
+Dados e materiais funcionam no aparelho; vídeos externos exigem internet. Não há sincronização automática entre aparelhos. Use o backup para guardar ou transferir seus registros.

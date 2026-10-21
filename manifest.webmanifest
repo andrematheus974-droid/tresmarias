@@ -1,0 +1,83 @@
+{
+  "id": "./index.html",
+  "name": "Central da Casa",
+  "short_name": "Central da Casa",
+  "description": "Materiais, rotina e finanças para cuidar da sua casa.",
+  "lang": "pt-BR",
+  "start_url": "./index.html#/materiais",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "portrait-primary",
+  "background_color": "#FFFFFF",
+  "theme_color": "#8B1E2D",
+  "categories": [
+    "lifestyle",
+    "education",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Materiais",
+      "short_name": "Materiais",
+      "url": "./index.html#/materiais",
+      "icons": [
+        {
+          "src": "./icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Financeiro",
+      "short_name": "Financeiro",
+      "url": "./index.html#/financeiro",
+      "icons": [
+        {
+          "src": "./icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Rotina",
+      "short_name": "Rotina",
+      "url": "./index.html#/rotina",
+      "icons": [
+        {
+          "src": "./icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}
